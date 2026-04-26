@@ -171,7 +171,7 @@ class _GreetingScreenState extends State<GreetingScreen> {
                                   ),
                                   SizedBox(height: 4),
                                   Text(
-                                    'Tracing Fun',
+                                    'Trace - Have Fun',
                                     style: TextStyle(
                                       fontSize: 32,
                                       fontWeight: FontWeight.bold,
