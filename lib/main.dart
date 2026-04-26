@@ -94,7 +94,7 @@ class _GreetingScreenState extends State<GreetingScreen> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: const [
                         Text(
-                          'Hi Shanmuk ',
+                          'Hi SHANMUK ',
                           style: TextStyle(
                             fontSize: 28,
                             fontWeight: FontWeight.bold,
@@ -171,7 +171,7 @@ class _GreetingScreenState extends State<GreetingScreen> {
                                   ),
                                   SizedBox(height: 4),
                                   Text(
-                                    'Tracing Fun',
+                                    'Trace - Have Fun',
                                     style: TextStyle(
                                       fontSize: 32,
                                       fontWeight: FontWeight.bold,
